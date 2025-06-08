@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import ttk, messagebox
 import sqlite3
 import os
-
+##авторизация
 dirname=os.path.dirname(__file__)
 os.chdir(dirname)
 
