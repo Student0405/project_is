@@ -1,4 +1,0 @@
-                          # .gitignore
-*.db          # SQLite-базы
-logs/         # Папка с логами
-__pycache__/  # Кэш Python
