@@ -1,3 +1,6 @@
+# Модуль с главными функциями
+
+
 from tkinter import END, DISABLED, NORMAL
 import datetime
 

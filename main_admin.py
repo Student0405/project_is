@@ -1,3 +1,5 @@
+# Модуль администратора
+
 from tkinter import ttk
 from tkinter import *
 from data import del_data, add_data, edit_data

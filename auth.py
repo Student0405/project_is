@@ -1,3 +1,5 @@
+# Модуль авторизации
+
 from tkinter import *
 from tkinter import ttk, messagebox
 import sqlite3
